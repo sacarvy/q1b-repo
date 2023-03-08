@@ -1,1 +1,1 @@
-module.exports = require('@packages/preset-prettier/index.prettierrc.js')
+module.exports = require('@q1b/preset-prettier/index.prettierrc.js')

@@ -1,5 +1,5 @@
 {
-    "name": "@packages/preset-ts",
+    "name": "@q1b/preset-ts",
     "version": "0.0.0",
     "private": true,
     "files": [

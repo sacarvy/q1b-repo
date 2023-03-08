@@ -1,1 +1,1 @@
-module.exports = require('@packages/preset-eslint/index.eslintrc.js')
+module.exports = require('@q1b/preset-eslint/index.eslintrc.js')

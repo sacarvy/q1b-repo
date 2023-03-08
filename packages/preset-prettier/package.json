@@ -1,5 +1,5 @@
 {
-    "name": "@packages/preset-prettier",
+    "name": "@q1b/preset-prettier",
     "version": "0.0.0",
     "main": "index.js",
     "license": "MIT",

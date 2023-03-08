@@ -1,5 +1,5 @@
 {
-    "name": "@packages/ui",
+    "name": "@q1b/ui",
     "version": "0.0.0",
     "main": "./index.tsx",
     "types": "./index.tsx",
@@ -9,7 +9,7 @@
         "solid-js": "^1.6.12"
     },
     "devDependencies": {
-        "@packages/preset-eslint": "*",
-        "@packages/preset-ts": "*"
+        "@q1b/preset-eslint": "*",
+        "@q1b/preset-ts": "*"
     }
 }
